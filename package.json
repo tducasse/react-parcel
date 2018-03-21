@@ -1,0 +1,17 @@
+{
+  "name": "react-parcel",
+  "version": "1.0.0",
+  "description": "A minimal React - Parcel working example",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel public/index.html"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.2"
+  }
+}
